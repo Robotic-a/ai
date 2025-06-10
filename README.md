@@ -1,3 +1,4 @@
+Dependency
 ```sh
 sudo apt install ros-noetic-dynamixel-sdk
 ```
@@ -10,3 +11,6 @@ sudo apt install ros-noetic-gmapping
  ```sh
 sudo apt install ros-noetic-scan-tools
 ``` 
+```sh
+sudo apt install ros-noetic-joy
+```
